@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
+int main(void)
+{
     char c = '\a';
     char e = '\007';
     char d = '\x41';

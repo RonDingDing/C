@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
+int main(void)
+{
     int n = 4;
     int m = 5;
     float f = 7.0f;
@@ -9,5 +10,4 @@ int main(void){
     printf("%d %d %d\n", n);
     printf("%d %d \n", f, g);
     return 0;
-
 }

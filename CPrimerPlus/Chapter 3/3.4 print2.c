@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
+int main(void)
+{
     unsigned int un = 3000000000;
     short end = 200;
     long big = 65537;

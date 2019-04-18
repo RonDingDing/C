@@ -8,5 +8,4 @@ int main(void)
     printf("Type double has a size of %zd bytes.\n", sizeof(double));
     printf("Type long double has a size of %zd bytes.\n", sizeof(long double));
     return 0;
-
 }
