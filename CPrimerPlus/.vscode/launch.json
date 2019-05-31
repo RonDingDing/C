@@ -8,10 +8,10 @@
             "name": "C++ Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "/mnt/d/Coding/C/CPrimerPlus/Chapter 10/a.out",
+            "program": "/mnt/d/Coding/C/CPrimerPlus/Chapter 11/a.out",
             "args": [""],
             "stopAtEntry": false,
-            "cwd": "/mnt/d/Coding/C/CPrimerPlus/Chapter 10",
+            "cwd": "/mnt/d/Coding/C/CPrimerPlus/Chapter 11",
             "environment": [],
             "externalConsole": true,
             "windows": {
